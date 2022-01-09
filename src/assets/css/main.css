@@ -161,10 +161,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-line-pack: end;
   align-content: flex-end;
-  -webkit-box-align: end;
-  -ms-flex-align: end;
   align-items: flex-end;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
@@ -1124,7 +1121,7 @@ p.b11_t1 span b {
   display: flex;
   -webkit-box-align: center;
   -ms-flex-align: center;
-  align-items: end;
+  align-items: flex-end;
 }
 
 .b11_item p span {
