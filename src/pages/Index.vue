@@ -219,7 +219,7 @@ export default {
       </div>
       <div class="b9_4"></div>
     </div>
-    <div class="b10">
+    <div class="b10 black">
       <div class="b10_1"></div>
       <div class="b10_2">
         <div class="main_1">

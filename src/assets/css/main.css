@@ -956,9 +956,10 @@ body {
 }
 
 .b10_1 {
-  height: 688px;
+  /*height: 688px;*/
+  height: 200px;
   width: 100%;
-  background: url("../img/phone.png") center no-repeat;
+  /*background: url("../img/phone.png") center no-repeat;*/
   background-size: cover;
   margin: -45px auto -115px;
   max-width: 415px;
@@ -986,6 +987,11 @@ body {
   background: url("../img/b10_bg.jpg") top center no-repeat;
   background-size: cover;
   overflow: hidden;
+}
+
+.b10.black {
+  background: #000;
+  margin-top: -15px;
 }
 
 .b10_2 p {
