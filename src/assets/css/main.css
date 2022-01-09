@@ -972,6 +972,7 @@ body {
   margin: -11px 0 0;
   position: relative;
   z-index: 9;
+  max-width: 290px;
 }
 
 .b10_2 .b10_t2 {
@@ -981,6 +982,7 @@ body {
   margin: 12px 0 0;
   position: relative;
   z-index: 9;
+  max-width: 290px;
 }
 
 .b10 {
@@ -999,8 +1001,9 @@ body {
 }
 
 .b10_2 .main_1 {
-  max-width: 415px;
+  min-width: 300px;
   margin: 0 auto;
+  max-width: 415px;
   background: linear-gradient(
     180deg,
     #070105 72.1%,
